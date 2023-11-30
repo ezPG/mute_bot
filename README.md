@@ -12,7 +12,7 @@ This Discord bot allows you to mute and unmute all members in a voice channel wi
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/ezPG/mute-bot.git
+    git clone https://github.com/ezPG/mute_bot.git
     ```
 
 2. Navigate to the project directory:
