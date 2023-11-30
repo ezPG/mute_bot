@@ -6,19 +6,19 @@ This Discord bot allows you to mute and unmute all members in a voice channel wi
 ## Prerequisites
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
-- Discord Bot Token (Replace `' Replace with yout token'` in the code with your actual Discord Bot Token)
+- Discord Bot Token (Replace `' Replace with your token'` in the code with your actual Discord Bot Token)
 
 ## Installation
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/discord-mute-bot.git
+    git clone https://github.com/ezPG/mute-bot.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd discord-mute-bot
+    cd mute-bot
     ```
 
 3. Install dependencies:
@@ -27,7 +27,7 @@ This Discord bot allows you to mute and unmute all members in a voice channel wi
     npm install
     ```
 
-4. Replace `' Replace with yout token'` in the `client.login` line in `index.js` with your actual Discord Bot Token.
+4. Replace `' Replace with your token'` in the `client.login` line in `main.js` with your actual Discord Bot Token.
 
 ## Usage
 1. Run the bot:
