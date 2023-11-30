@@ -18,7 +18,7 @@ This Discord bot allows you to mute and unmute all members in a voice channel wi
 2. Navigate to the project directory:
 
     ```bash
-    cd mute-bot
+    cd mute_bot
     ```
 
 3. Install dependencies:
